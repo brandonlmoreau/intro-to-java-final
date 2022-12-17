@@ -1,0 +1,770 @@
+sam
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1500
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+mitchell
+bob
+jameson
+jameosn@gmail
+949
+tree lane
+mission viejo
+ca
+92652
+1501
+3/3/2001
+3.1
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+danny
+bradford
+joe
+sam@gmail
+949
+yo lane
+laguna hills
+ca
+92653
+1502
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+beatrice
+m
+peng
+sghj@gmail
+949
+hello lane
+laguna hills
+ca
+92653
+1503
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+james
+s
+blue
+blue@gmail
+949
+heyyo lane
+laguna hills
+ca
+92653
+1504
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+joe
+r
+martin
+martin@gmail
+949
+broo lane
+laguna hills
+ca
+92653
+1505
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+max
+n
+brandy
+max@gmail
+949
+lowl lane
+laguna hills
+ca
+92653
+1506
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+adeline
+a
+rios
+adeline@gmail
+949
+godfrey lane
+laguna hills
+ca
+92653
+1507
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+james
+l
+dudek
+fufek@gmail
+949
+pillar lane
+heeee hills
+ca
+92653
+1508
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+david
+j
+soto
+hello@gmail
+949
+btw lane
+laguna hills
+ca
+92653
+1509
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+sarah
+d
+hansen
+sam@gmail
+949
+high lane
+laguna hills
+ca
+92653
+1510
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+william
+nixon
+son
+nixon@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1511
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+emily
+j
+jameosn
+m@gmail
+949
+fff lane
+laguna hills
+ca
+92653
+1512
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ddd
+fff
+www
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1513
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+www
+qqq
+rrr
+rrr@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1514
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+adsf
+asdf
+dfg
+555@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1515
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+qqq
+www
+eee
+wer@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1516
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+eee
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1517
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+www
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1518
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+rrr
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1519
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ttt
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1520
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ggg
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1521
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+fff
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1522
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ggg
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1523
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+hhhh
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1524
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ccc
+bob
+jameson
+jameosn@gmail
+949
+tree lane
+mission viejo
+ca
+92652
+1525
+3/3/2001
+3.1
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+xxx
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1526
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+iii
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1527
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+bbb
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1528
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ccc
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1529
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ccc
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1530
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+xxx
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1531
+1/1/2000
+3.0
+Bio1A_T1505
+Bio1b_T1515
+Math1a_T1520
+
+
+ooo
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1532
+1/1/2000
+3.0
+Math1a_T1520
+
+
+iiii
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1533
+1/1/2000
+3.0
+Math1a_T1520
+
+
+mmm
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1534
+1/1/2000
+3.0
+
+
+llll
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1535
+1/1/2000
+3.0
+
+
+uuu
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1536
+1/1/2000
+3.0
+
+
+ggg
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1537
+1/1/2000
+3.0
+
+
+hhhh
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1538
+1/1/2000
+3.0
+
+
+iii
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1539
+1/1/2000
+3.0
+
+
+bbb
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1540
+1/1/2000
+3.0
+
+
+ppp
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1541
+1/1/2000
+3.0
+
+
+lll
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1542
+1/1/2000
+3.0
+
+
+mmm
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1543
+1/1/2000
+3.0
+
+
+hhh
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1544
+1/1/2000
+3.0
+
+
+bbb
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1545
+1/1/2000
+3.0
+
+
+oooo
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1546
+1/1/2000
+3.0
+
+
+bbb
+smith
+son
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1547
+1/1/2000
+3.0
+
+

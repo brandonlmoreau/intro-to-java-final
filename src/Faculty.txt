@@ -1,0 +1,30 @@
+jim
+hop
+berg
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1
+1
+1970
+2005
+false
+
+david
+cohen
+goldman
+jameosn@gmail
+949
+tree lane
+mission viejo
+ca
+92652
+3
+3
+1975
+1995
+true
+

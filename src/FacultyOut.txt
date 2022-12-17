@@ -1,0 +1,39 @@
+jim
+hop
+berg
+sam@gmail
+949
+feather lane
+laguna hills
+ca
+92653
+1548
+1/1/1970
+
+Bio1A
+Bio1A_T1505 contains: 32 students
+Bio1b
+Bio1b_T1515 contains: 32 students
+
+
+david
+cohen
+goldman
+jameosn@gmail
+949
+tree lane
+mission viejo
+ca
+92652
+1549
+3/3/1975
+
+Bio1A
+Bio1A_T1500 contains: 0 students
+Bio1b
+Bio1b_T1510 contains: 0 students
+Math1a
+Math1a_T1520 contains: 34 students
+
+
+

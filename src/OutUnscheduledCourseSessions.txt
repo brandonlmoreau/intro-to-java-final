@@ -1,0 +1,2 @@
+Bio1A_T1500 ... minimum amount of students required: 18
+Bio1b_T1510 ... minimum amount of students required: 18
